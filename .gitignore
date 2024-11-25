@@ -1,0 +1,4 @@
+# quiero ignorar lo archivos .xsd
+*.xsd
+#y la carpeta docs porque es secreta..ssshhh
+docs/
