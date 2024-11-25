@@ -2,3 +2,5 @@
 *.xsd
 #y la carpeta docs porque es secreta..ssshhh
 docs/
+#incluyo esta linea para modifica el fichero 
+#y hacer otro commit
