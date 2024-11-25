@@ -1,2 +1,3 @@
 # santateresa_david_nov24
 repositorio para la practica primer trimestre EEDD
+de momento he hecho todo lo que ha ido pidiendo el ejercicio, crear un repo, clonarlo en locar, crear carpetas y archivos. un archivo gitignore para informar de los archivos que no quiero hacer seguir. después una seguna rama con mi nombre. modifico este archivo, y continuo...
